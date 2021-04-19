@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Group30JAVAEE:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Group30JAVAEE_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Group30JAVAEE" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Group30JAVAEE/web/Web" />
+    </root>
+  </artifact>
+</component>

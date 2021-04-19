@@ -34,6 +34,8 @@ public class DeleteCookieServlet extends HttpServlet {
             }
         }
 
+        System.out.println("HELLO");
+
         response.sendRedirect("/");
     }
 }
